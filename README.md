@@ -3,7 +3,7 @@
 # Projects
 * [Image compression codecs benchmark inspired by Google's "Full Resolution Image Compression with Recurrent Neural Networks"](https://github.com/arassadin/image-compression-benchmarking)
 * [A bit more detailed description of how to use magenta's RNN-Melody models with and without hardware MIDI keyboard](https://github.com/arassadin/rnn-melody_how-to)
-* 
+
 # Forks
 
 # Slides
