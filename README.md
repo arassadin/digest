@@ -11,5 +11,6 @@
 
 # Slides
 * [Deep Neural Architectures](https://drive.google.com/open?id=1pHh_o7IsahvXze7qLjdsIAWMu36x7mhVK4l1HqUP6xI)
-* [CNN Performance Optimization Overview](https://drive.google.com/open?id=1nK6u8OOmz1CeFCdBqH4ccOmRcdyeDbXXma2_2o1ky4A)
+* [CNN Performance Optimization Overview](https://drive.google.com/open?id=1nK6u8OOmz1CeFCdBqH4ccOmRcdyeDbXXma2_2o1ky4A) - [AMD](https://nnov.hse.ru/bipm/amd/) report
 * [Deep Learning For 3D Face Reconstruction](https://docs.google.com/presentation/d/1B1O5akAjrAOHQtd4qmJqq_qF3vQfBe5nl5fGvp7THYc/edit?usp=sharing) (2016)
+* [Deep neural networks performance optimization in image recognition](https://docs.google.com/presentation/d/1nzhZhcYsSawdtuJVjQTD2q9rl_ySeh8qta7usfiH9aQ/edit?usp=sharing) - [LATNA](https://nnov.hse.ru/latna) report
