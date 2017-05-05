@@ -4,8 +4,9 @@
 * [Image compression codecs benchmark inspired by Google's "Full Resolution Image Compression with Recurrent Neural Networks"](https://github.com/arassadin/image-compression-benchmarking)
 * [A bit more detailed description of how to use magenta's RNN-Melody models with and without hardware MIDI keyboard](https://github.com/arassadin/rnn-melody_how-to)
 * [A simple pipeline for face extraction and its subsequent description](https://github.com/arassadin/demo_facial_description)
-* CNN performance optimization toolset
-* 3D Face Reconstruction
+* [CNN performance optimization toolset]()
+* [3D Face Reconstruction]()
+* [Deep neural networks performance optimization in image recognition]() - [CEUR Workshop Proceedings](http://ceur-ws.org/)
 
 # Forks
 
