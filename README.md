@@ -1,5 +1,5 @@
 # Publications
-* [Deep neural networks performance optimization in image recognition](https://elibrary.ru/item.asp?id=29266703) (2017)
+* [Deep neural networks performance optimization in image recognition](https://elibrary.ru/item.asp?id=29266840) (2017)
 * [Compressing deep convolutional neural networks in visual emotion recognition]() (2017)
 
 # Projects
