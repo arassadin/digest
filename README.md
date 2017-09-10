@@ -9,7 +9,7 @@
 * [A simple pipeline for face extraction and its subsequent description](https://github.com/arassadin/demo_facial_description)
 * [CNN performance optimization toolset](https://github.com/arassadin/cnn-compression)
 * [3D Face Reconstruction]()
-* [EmotiW 2017 Challenge](https://sites.google.com/site/emotiwchallenge/), AMD team - 4th place in the final leaderboard
+* [EmotiW 2017 Challenge](https://sites.google.com/site/emotiwchallenge/), AMD team [code](https://github.com/arassadin/emotiw2017) - 4th place in the final leaderboard
 
 # Slides
 * [Deep Neural Architectures](https://drive.google.com/open?id=1pHh_o7IsahvXze7qLjdsIAWMu36x7mhVK4l1HqUP6xI)
