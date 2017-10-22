@@ -1,7 +1,9 @@
 # Publications
-* [Deep neural networks performance optimization in image recognition](https://elibrary.ru/item.asp?id=29266840) (2017)
-* [Compressing deep convolutional neural networks in visual emotion recognition](http://ceur-ws.org/Vol-1901/paper33.pdf) (2017)
-* [Group-level Emotion Recognition using Transfer Learning from Face Identification](https://arxiv.org/abs/1709.01688) (2017)
+* A. G. Rassadin, [Deep neural networks performance optimization in image recognition](https://elibrary.ru/item.asp?id=29266840) (2017)
+* A. G. Rassadin, [Compressing deep convolutional neural networks in visual emotion recognition](http://ceur-ws.org/Vol-1901/paper33.pdf) (2017)
+* А. С. Попова, Детектирование эмоций в мультимедиа контенте (2017)
+* A. S. Popova, [Emotion Recognition in Sound](https://link.springer.com/chapter/10.1007%2F978-3-319-66604-4_18) (2017)
+* A. Rassadin, [Group-level Emotion Recognition using Transfer Learning from Face Identification](https://arxiv.org/abs/1709.01688) (2017)
 
 # Projects
 * [Image compression codecs benchmark inspired by Google's "Full Resolution Image Compression with Recurrent Neural Networks"](https://github.com/arassadin/image-compression-benchmarking)
