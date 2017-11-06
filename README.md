@@ -20,5 +20,6 @@
 * [Deep neural networks performance optimization in image recognition](https://docs.google.com/presentation/d/1nzhZhcYsSawdtuJVjQTD2q9rl_ySeh8qta7usfiH9aQ/) - [LATNA](https://nnov.hse.ru/latna) report
 * [Deep neural networks performance optimization in image recognition](https://docs.google.com/presentation/d/1vqHgfr3H0m4vUyuFNSduQnJXQrR-1_m2F0s8OCWDQ_M/) - [ITNT-2017](http://itnt-conf.org/itnt17en/) report
 * [Глубокое обучение в задачах трехмерной реконструкции лиц](https://drive.google.com/open?id=0B32JT7F6Ss8MczJ6NWhnZjZ4R0k) (accompanying slides for Master's degree)
+* [EmotiW 2017 report](https://docs.google.com/presentation/d/1jWSqGuO-2q0r2Q2lUMSMqvLtMaY4l8qUjKGERO09-cU) - [AMD](https://nnov.hse.ru/bipm/amd/) report
 
 # Forks
