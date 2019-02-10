@@ -20,7 +20,7 @@
 
 # Slides
 * [Deep Neural Architectures](https://drive.google.com/open?id=1pHh_o7IsahvXze7qLjdsIAWMu36x7mhVK4l1HqUP6xI) | 2016
-* [Deep Learning For 3D Face Reconstruction](https://docs.google.com/presentation/d/1B1O5akAjrAOHQtd4qmJqq_qF3vQfBe5nl5fGvp7THYc/edit?usp=sharing) - part Master's thesis | 2016
+* [Deep Learning For 3D Face Reconstruction](https://docs.google.com/presentation/d/1B1O5akAjrAOHQtd4qmJqq_qF3vQfBe5nl5fGvp7THYc/edit?usp=sharing) - part of Master's thesis | 2016
 * [CNN Performance Optimization Overview](https://drive.google.com/open?id=1nK6u8OOmz1CeFCdBqH4ccOmRcdyeDbXXma2_2o1ky4A) - [AMD](https://nnov.hse.ru/bipm/amd/) report | 2017
 * [Deep neural networks performance optimization in image recognition](https://docs.google.com/presentation/d/1nzhZhcYsSawdtuJVjQTD2q9rl_ySeh8qta7usfiH9aQ/) - [LATNA](https://nnov.hse.ru/latna) report | 2017
 * [Deep neural networks performance optimization in image recognition](https://docs.google.com/presentation/d/1vqHgfr3H0m4vUyuFNSduQnJXQrR-1_m2F0s8OCWDQ_M/) - [ITNT](http://itnt-conf.org/itnt17en/) report | 2017
