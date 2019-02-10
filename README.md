@@ -11,11 +11,11 @@
 * [A bit more detailed description of how to use magenta's RNN-Melody models with and without hardware MIDI keyboard](https://github.com/arassadin/rnn-melody_how-to) | 2016
 * [A simple pipeline for face extraction and its subsequent description](https://github.com/arassadin/demo_facial_description) | (2017)
 * [CNN performance optimization toolset](https://github.com/arassadin/cnn-compression) | 2017
-* [Deep Learning for 3D Face Reconstruction]() - Master's thesis | 2016 - 2017
+* Deep Learning for 3D Face Reconstruction - Master's thesis | 2016 - 2017
 * [EmotiW 2017 Challenge](https://sites.google.com/site/emotiwchallenge/) AMD team [code](https://github.com/arassadin/emotiw2017) (4th place in the final leaderboard) | 2017
 * [MERC 2017 Challenge](http://www.datacombats.com/) AMD team [code](https://github.com/arassadin/merc2017) (5th place in the final leaderboard) | 2017
 * NLP course for 4 th year of bachelor program [proceedings](https://github.com/arassadin/HSE_14AMI_NLP-2018), Higher School of Economics | 2018
-* [CNN performance optimization via weights quantization]() - RnD project on partially commercial basis | ongoing
+* CNN performance optimization via weights quantization - RnD project on partially commercial basis | ongoing
 * NLP course for 4 th year of bachelor program [proceedings](https://github.com/arassadin/HSE_AMI15_NLP-2019), Higher School of Economics | 2019
 
 # Slides
